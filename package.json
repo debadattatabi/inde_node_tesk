@@ -1,0 +1,28 @@
+{
+	"name": "Indegene API",
+	"version": "1.0.0",
+	"description": "Indegene Task",
+	"main": "server.js",
+	"author": {
+		"name": "Debadatta Mahanta"
+	},
+	"dependencies": {
+		"compression": "^1.7.4",
+		"convict": "^5.2.0",
+		"cors": "^2.8.5",
+		"express": "^4.17.1",
+		"jsonschema": "^1.2.6",
+		"mongodb": "^3.5.9",
+		"morgan": "^1.10.0"
+	},
+	"devDependencies": {
+		"eslint": "^6.8.0",
+		"eslint-config-google": "^0.12.0",
+		"eslint-config-standard": "^14.1.1",
+		"eslint-plugin-import": "^2.20.1",
+		"eslint-plugin-node": "^11.0.0",
+		"eslint-plugin-promise": "^4.2.1",
+		"eslint-plugin-standard": "^4.0.1",
+		"nodemon": "^2.0.2"
+	}
+}
